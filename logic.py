@@ -1,1 +1,1 @@
-def calculate_hours(hours): return sum(hours)
+def calculate_hours(hours): total = sum(hours) return total
