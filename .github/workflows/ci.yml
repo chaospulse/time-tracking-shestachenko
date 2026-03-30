@@ -1,6 +1,6 @@
 name: CI
 
-on: pullrequest:
+on: pull request:
  branches: [main]
 
 jobs:
